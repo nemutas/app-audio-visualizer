@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/app-audio-visualizer/static/css/main.224c22e4.chunk.css",
+    "main.js": "/app-audio-visualizer/static/js/main.4649c6aa.chunk.js",
+    "main.js.map": "/app-audio-visualizer/static/js/main.4649c6aa.chunk.js.map",
+    "runtime-main.js": "/app-audio-visualizer/static/js/runtime-main.0be06bf8.js",
+    "runtime-main.js.map": "/app-audio-visualizer/static/js/runtime-main.0be06bf8.js.map",
+    "static/js/2.e6ca8800.chunk.js": "/app-audio-visualizer/static/js/2.e6ca8800.chunk.js",
+    "static/js/2.e6ca8800.chunk.js.map": "/app-audio-visualizer/static/js/2.e6ca8800.chunk.js.map",
+    "static/js/3.09a46e2e.chunk.js": "/app-audio-visualizer/static/js/3.09a46e2e.chunk.js",
+    "static/js/3.09a46e2e.chunk.js.map": "/app-audio-visualizer/static/js/3.09a46e2e.chunk.js.map",
+    "index.html": "/app-audio-visualizer/index.html",
+    "static/css/main.224c22e4.chunk.css.map": "/app-audio-visualizer/static/css/main.224c22e4.chunk.css.map",
+    "static/js/2.e6ca8800.chunk.js.LICENSE.txt": "/app-audio-visualizer/static/js/2.e6ca8800.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0be06bf8.js",
+    "static/js/2.e6ca8800.chunk.js",
+    "static/css/main.224c22e4.chunk.css",
+    "static/js/main.4649c6aa.chunk.js"
+  ]
+}
