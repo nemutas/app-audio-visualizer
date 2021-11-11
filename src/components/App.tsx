@@ -91,7 +91,7 @@ export const App: VFC = () => {
 				className={styles.player}
 				controls
 				loop
-				src="/assets/たぬきちの冒険.mp3"
+				src="./assets/たぬきちの冒険.mp3"
 				onPlay={playHandler}
 				onVolumeChange={() => (volumeRef.current = audioRef.current!.volume)}
 			/>
